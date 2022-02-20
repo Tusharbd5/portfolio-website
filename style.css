@@ -92,4 +92,7 @@ body
 footer p
 {
     text-align: center;
+    font-weight: 5;
+    font-size: 13px;
+    color: rgb(182, 180, 180);
 }
