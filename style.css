@@ -1,0 +1,19 @@
+section
+{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+h1
+{
+    font-size: 40px;
+}
+.name
+{
+    color: orange;
+}
+.half-width img
+{
+    width: 70%;
+}
