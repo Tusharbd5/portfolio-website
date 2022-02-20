@@ -32,11 +32,12 @@ p
 .hire-button
 {
     text-decoration: none;
-    background-image: linear-gradient(orange, salmon);
+    background-image: linear-gradient(tomato, salmon);
     padding: 10px 25px;
     border-radius: 10px;
     color: white;
-    font-weight: 700;   
+    font-weight: 500; 
+    font-size: 18px;  
 }
 body
 {
