@@ -1,19 +1,44 @@
-section
+.top-banner
 {
     font-family: 'Poppins', sans-serif;
-    display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    
+} 
+section
+{
+    display: flex;
+} 
 h1
 {
-    font-size: 40px;
+    font-size: 50px;
 }
 .name
 {
     color: orange;
 }
+.half-width
+{
+    width: 50%;
+    padding-left: 5%;
+}
 .half-width img
 {
-    width: 70%;
+    width: 90%;
+}
+p
+{
+    text-align: justify;
+}
+.hire-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;   
+}
+body
+{
+    margin: 0;
 }
